@@ -1,5 +1,5 @@
 ﻿Remove-Variable *
-cd "C:\Users\amol\Downloads\CasparCG.Server-2.1.8NRK\CasparCG Server\server\template\NiceGameInfo\roster\playerliste"
+cd "Path\CasparCG Server\server\template\NiceGameInfo\roster\playerliste"
 $split = "	"
 $hjemme = Import-Csv .\hjemme.csv -Header nr,player -Delimiter $split
 $gjester = Import-Csv .\gjester.csv -Header nr,player  -Delimiter $split
