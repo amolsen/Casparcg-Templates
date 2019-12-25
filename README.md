@@ -1,2 +1,2 @@
 # Casparcg-Templates
-Simple HTML templates fort IceHockey
+Simple CasparCG HTML templates for icehockey
